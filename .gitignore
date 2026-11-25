@@ -1,0 +1,34 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM64/
+
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.iml
+.idea/
+
+# WinUI / MSIX packaging outputs
+AppPackages/
+BundleArtifacts/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.appxupload
+
+# NuGet / Logs / Misc
+*.nupkg
+*.snupkg
+*.log
+*.cache
+Thumbs.db
+.DS_Store
